@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/memecoin-gh-pages/static/css/main.04e29190.css",
-    "main.js": "/memecoin-gh-pages/static/js/main.1380ef49.js",
-    "index.html": "/memecoin-gh-pages/index.html",
-    "main.04e29190.css.map": "/memecoin-gh-pages/static/css/main.04e29190.css.map",
-    "main.1380ef49.js.map": "/memecoin-gh-pages/static/js/main.1380ef49.js.map"
+    "main.css": "/MemeCoin-gh-pages/static/css/main.04e29190.css",
+    "main.js": "/MemeCoin-gh-pages/static/js/main.1380ef49.js",
+    "index.html": "/MemeCoin-gh-pages/index.html",
+    "main.04e29190.css.map": "/MemeCoin-gh-pages/static/css/main.04e29190.css.map",
+    "main.1380ef49.js.map": "/MemeCoin-gh-pages/static/js/main.1380ef49.js.map"
   },
   "entrypoints": [
     "static/css/main.04e29190.css",
