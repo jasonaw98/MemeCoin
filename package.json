@@ -1,7 +1,7 @@
 {
   "name": "bank-project",
   "version": "0.1.0",
-  "homepage": "https://github.com/jasonaw98/MemeCoin-gh-pages",
+  "homepage": "https://jasonaw98.github.io/MemeCoin-gh-pages",
   "private": true,
   "dependencies": {
     "@ethersproject/constants": "^5.5.0",
