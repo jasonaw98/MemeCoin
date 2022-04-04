@@ -24,7 +24,7 @@ function App() {
   const [depositMoney, setDeposityMoney] = useState(null);
   const [txs, setTxs] = useState([]);
 
-  const CONTRACT_ADDRESS = '0x383445957F8d45ea0fD2Bd54E28CFd08453a7b95';
+  const CONTRACT_ADDRESS = '0xb68eB938f9e47cd85bC2E98Ba36ee25D7a8E5D01';
   const ContractABI = abi.abi;
 
   console.log('abi', ContractABI);
