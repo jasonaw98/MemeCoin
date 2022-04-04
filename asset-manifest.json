@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jasonaw98/MemeCoin/static/css/main.04e29190.css",
+    "main.js": "/jasonaw98/MemeCoin/static/js/main.1380ef49.js",
+    "index.html": "/jasonaw98/MemeCoin/index.html",
+    "main.04e29190.css.map": "/jasonaw98/MemeCoin/static/css/main.04e29190.css.map",
+    "main.1380ef49.js.map": "/jasonaw98/MemeCoin/static/js/main.1380ef49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e29190.css",
+    "static/js/main.1380ef49.js"
+  ]
+}
